@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir -p /tmp/u && mv [A-Z]* /tmp/u/
+(if mkdir -p /tmp/u then mv [A-Z]* /tmp/u/ fi)
