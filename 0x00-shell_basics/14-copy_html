@@ -1,0 +1,2 @@
+#!/bin/bash
+cp -ru --update --suffix=.bak ./*.html ../
